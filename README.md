@@ -16,7 +16,7 @@ Unindo a lógica da programação com a visão crítica e empática da área da 
 * **Ferramentas e Lógica:** Versionamento com Git/GitHub, Estruturação de Banco de Dados, Mapeamento de Regras de Negócio, Automação de Processos.
 
 ### ᯓ★ Projetos em Destaque
-* **[The Vigil]([LINK_DO_SEU_REPOSITORIO_AQUI](https://github.com/essiecarvalho/TheVigil))**: Um hub interativo web e motor de narrativa (*Text Adventure*) construído com Python e Flask. Demonstra aplicação prática de arquitetura de back-end, gerenciamento de rotas condicionais e front-end responsivo para garantir uma experiência imersiva ao usuário.
+* **[The Vigil](https://github.com/essiecarvalho/TheVigil)**: Um hub interativo web e motor de narrativa (*Text Adventure*) construído com Python e Flask. Demonstra aplicação prática de arquitetura de back-end, gerenciamento de rotas condicionais e front-end responsivo para garantir uma experiência imersiva ao usuário.
 
 ### ᯓ★ Como me encontrar
 - **LinkedIn:** Esther Carvalho (https://www.linkedin.com/in/esther-carvalho-86920a37a/)
