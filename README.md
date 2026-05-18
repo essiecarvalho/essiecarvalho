@@ -17,6 +17,7 @@ Unindo a lógica da programação com a visão crítica e empática da área da 
 
 ### ᯓ★ Projetos em Destaque
 * **[The Vigil](https://github.com/essiecarvalho/TheVigil)**: Um hub interativo web e motor de narrativa (*Text Adventure*) construído com Python e Flask. Demonstra aplicação prática de arquitetura de back-end, gerenciamento de rotas condicionais e front-end responsivo para garantir uma experiência imersiva ao usuário.
+* **[VeritaMed](https://github.com/essiecarvalho/VeritaMed)**: Um assistente virtual para Discord desenvolvido em Python, focado em quebrar a barreira do idioma na pesquisa científica. Ele consome a API oficial do PubMed, busca os artigos médicos mais recentes sobre o tema desejado e entrega os títulos traduzidos para o português diretamente no chat.
 
 ### ᯓ★ Como me encontrar
 - **LinkedIn:** Esther Carvalho (https://www.linkedin.com/in/esther-carvalho-86920a37a/)
